@@ -1,0 +1,13 @@
+<HTML>
+<TITLE>
+GEOG5990M
+</TITLE>
+<BODY>
+<p><h1>ABOUT ME</h1></p>
+<p> My name is Cameron Leighton, I'm 22 years old from Silsden, West Yorkshire. I did my undergraduate degree in Physical Geography and Geology at The University of Leeds and I graduated in 2018. I took a year out before coming back to do an Msc in River Basin Dynamics and Management with GIS. </p> 
+<p><h2> The model</h2></p>
+<p> The model consists of some agents that move around and eat an environment that they are found in. They share the environment with each other if they are within a set vicinity of each other. There ae predators in the environment that move twice as fast round the environment and the aim was to have the predators kill the agents however removing from a list within a loop proved difficult originally.</p>
+<p><h3> Link to the model </h3></p>
+<p> https://github.com/CameronL97/Geeog-agent-based-model </p>
+</BODY>
+</HTML>
